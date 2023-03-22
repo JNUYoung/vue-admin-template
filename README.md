@@ -63,7 +63,7 @@ npm install mddir -g
 
 3.使用全局前置路由守卫进行权限验证并添加动态路由：
 
-![router](C:\Users\YOUNG\Desktop\router.png)
+![router](https://github.com/JNUYoung/vue-admin-template/blob/main/images/router.png)
 
 常用路由守卫：
 
@@ -107,7 +107,7 @@ component: () => import('component_path')
 
 ## 五、Layout布局
 
-![image-20230321182535898](C:\Users\YOUNG\AppData\Roaming\Typora\typora-user-images\image-20230321182535898.png)
+![image-20230321182535898](https://github.com/JNUYoung/vue-admin-template/blob/main/images/image-20230321182535898.png)
 
 - layout/index.vue：布局组件
   - header组件：固定定位到页面顶部
@@ -241,7 +241,7 @@ toggle() {
 
 9.slideVerify 滑动验证组件
 
-![image-20230322150908168](C:\Users\YOUNG\AppData\Roaming\Typora\typora-user-images\image-20230322150908168.png)
+![image-20230322150908168](https://github.com/JNUYoung/vue-admin-template/blob/main/images/image-20230322150908168.png)
 
 1. 通过canvas元素绘制背景图像，以及拼图图块；
 2. 监听slider-mask-item的相应事件：
